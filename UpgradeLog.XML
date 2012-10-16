@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RegexRenamer">
+</Property><Property Name="Solution File" Value="Z:\Dropbox\Programming\C#\RegexRenamer\RegexRenamer.sln">
+</Property><Property Name="User Options File" Value="Z:\Dropbox\Programming\C#\RegexRenamer\RegexRenamer.v11.suo">
+</Property><Property Name="Date" Value="Saturday, April 07, 2012">
+</Property><Property Name="Time" Value="5:49 AM">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="RegexRenamer.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="RegexRenamer.sln" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RegexRenamer.v11.suo" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer.v11.suo">
+</Event><Event ErrorLevel="3" Project="RegexRenamer" Source="RegexRenamer\RegexRenamer.csproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\RegexRenamer.csproj" Description="Project file successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\RegexRenamer.csproj">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Form1.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Form1.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Program.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Program.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Properties\Settings.settings" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Form1.resx" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\Properties\Resources.resx" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenamer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\RegexRenamer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RegexRenamer" Source="RegexRenamer\RegexRenamer.csproj" Description="Converted">
+</Event><Event ErrorLevel="3" Project="RegexRenameLib" Source="RegexRenameLib\RegexRenameLib.csproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="RegexRenameLib" Source="RegexRenameLib\RegexRenameLib.csproj" Description="Project file successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenameLib\RegexRenameLib.csproj">
+</Event><Event ErrorLevel="0" Project="RegexRenameLib" Source="RegexRenameLib\Renamer.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenameLib\Renamer.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenameLib" Source="RegexRenameLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\RegexRenameLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RegexRenameLib" Source="RegexRenameLib\RegexRenameLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RegexRenameLib" Source="RegexRenameLib\RegexRenameLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="3" Project="Tester" Source="Tester\Tester.csproj" Description="OneWayUpgrade">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Tester.csproj" Description="Project file successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\Tester\Tester.csproj">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Program.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\Tester\Program.cs">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Dropbox\Programming\C#\RegexRenamer\Backup\Tester\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Tester.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Tester" Source="Tester\Tester.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RegexRenamer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RegexRenamer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RegexRenamer" Source="RegexRenamer\RegexRenamer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RegexRenameLib" Source="RegexRenameLib\RegexRenameLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Tester" Source="Tester\Tester.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

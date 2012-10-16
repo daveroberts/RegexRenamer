@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexRenamer", "RegexRenamer\RegexRenamer.csproj", "{AE6AC057-CBBA-4A29-9934-FD59F21B3823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexRenameLib", "RegexRenameLib\RegexRenameLib.csproj", "{22D7A9B3-47D2-49D7-8C53-7FC13EBFD2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{28E1E0D5-CEA7-48D6-8770-DD7AB3D2D558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6AC057-CBBA-4A29-9934-FD59F21B3823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6AC057-CBBA-4A29-9934-FD59F21B3823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6AC057-CBBA-4A29-9934-FD59F21B3823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6AC057-CBBA-4A29-9934-FD59F21B3823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D7A9B3-47D2-49D7-8C53-7FC13EBFD2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D7A9B3-47D2-49D7-8C53-7FC13EBFD2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D7A9B3-47D2-49D7-8C53-7FC13EBFD2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D7A9B3-47D2-49D7-8C53-7FC13EBFD2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E1E0D5-CEA7-48D6-8770-DD7AB3D2D558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E1E0D5-CEA7-48D6-8770-DD7AB3D2D558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E1E0D5-CEA7-48D6-8770-DD7AB3D2D558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E1E0D5-CEA7-48D6-8770-DD7AB3D2D558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
